@@ -1,3 +1,7 @@
+//输入一个链表，从尾到头打印链表每个节点的值。 
+//输入为链表的表头
+//输出为需要打印的“新链表”的表头
+
 #include <iostream>
 #include <vector>
 using namespace std;
